@@ -1,6 +1,6 @@
 Under The Influence, a music app where you can trace influences in music since the start of the twentieth century.
 
-Formed as an experiment in setting up a GraphQL db with a CSV-based table, developed through GatsbyJS framework(more info: https://www.gatsbyjs.org/)
+Formed as an experiment in setting up a GraphQL db with a CSV-based table, developed through GatsbyJS framework(more info: https://www.gatsbyjs.org/) with React as frontend-library.
 
 Data courtesy of: http://acclaimedmusic.net/
 
