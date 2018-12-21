@@ -4,7 +4,7 @@ Formed as an experiment in setting up a GraphQL db with a CSV-based table, devel
 
 Data courtesy of: http://acclaimedmusic.net/
 
-#TO RUN THIS APP LOCALLY:
+# TO RUN THIS APP LOCALLY
 Install Gatsby-client ($ npm i -g gatsby-cli)
 More info on Gatsby framework()
 
